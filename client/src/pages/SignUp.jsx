@@ -100,7 +100,7 @@ const handleSubmit = async (e) => {
               )}
 
             </Button>
-
+            <Oauth />
           </form>
           <div className='flex gap-2 text-sm mt-5'>
             <span>Have an account?</span>

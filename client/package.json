@@ -12,6 +12,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
     "bcrypt": "^6.0.0",
+    "firebase": "^12.7.0",
     "flowbite": "^4.0.1",
     "flowbite-react": "^0.12.14",
     "react": "^19.1.1",
